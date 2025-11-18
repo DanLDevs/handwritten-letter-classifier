@@ -81,4 +81,5 @@ python letter_classifier.py
 * Tkinter Documentation: https://docs.python.org/3/library/tkinter.html
 
 ## Example Output
-<img width="307" height="351" alt="image" src="https://github.com/user-attachments/assets/b11e4561-5951-4a4f-9366-9ceb937a038b" />
+
+![Example Drawing](example_output.png)
