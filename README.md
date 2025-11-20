@@ -68,7 +68,7 @@ python letter_classifier.py
 * Click **Clear** to draw a new letter.
 
 ## Model Performance
-* **Final Accuracy:** ~93% on EMNIST Letters test set.
+* **Final Accuracy:** ~95% on EMNIST Letters test set.
 * **Data Augmentation:** Small rotations, width/height shifts to improve generalization.
 
 ## Notes
@@ -82,4 +82,4 @@ python letter_classifier.py
 
 ## Example Output
 
-![Example Drawing](example_output.png)
+![Example Drawing](assets/example_output.png)
